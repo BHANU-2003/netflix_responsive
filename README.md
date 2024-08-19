@@ -16,11 +16,19 @@ https://netflix-responsive-gilt.vercel.app/
 
 ## How to Run Locally
 Clone the repository:
+
 bash
+
 Copy code
+
 git clone https://github.com/yourusername/netflix-clone.git
+
 Navigate to the project directory:
+
 bash
+
 Copy code
+
 cd netflix-clone
+
 Open index.html in your browser to view the website.
